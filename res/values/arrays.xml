@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ThemeTitleArray">
+        <item>Samsung Basic</item>
+        <item>Natural</item>
+        <item>Causal</item>
+        <item>Futuristic</item>
+        <item>Classic</item>
+        <item>Chinese classic</item>
+        <item>Romantic</item>
+    </string-array>
+    <string-array name="ThemeDescripArray">
+        <item>"Samsung's fundamental theme"</item>
+        <item>Organic and Natural pureness</item>
+        <item>Vivid and amusing</item>
+        <item>Meditation to touch future</item>
+        <item>Realistic analogy</item>
+        <item>Modem analysis of Chinese classic</item>
+        <item>Plesant and happy,Sweet</item>
+    </string-array>
+    <integer-array name="ThemeImageArray">
+        <item>@color/gray</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/purple</item>
+        <item>@color/brown</item>
+        <item>@color/darkCyan</item>
+        <item>@color/pink</item>
+    </integer-array>
+</resources>

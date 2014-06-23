@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title_textcolor">#ff000000</color>
+    <color name="list_item_detail_textcolor">#ff969ea6</color>
+    <color name="gray">#ff708090</color>
+    <color name="green">#ff008000</color>
+    <color name="red">#ffff0000</color>
+    <color name="purple">#ff800080</color>
+    <color name="brown">#ff8b4513</color>
+    <color name="darkCyan">#ff008b8b</color>
+    <color name="pink">#ffffc0cb</color>
+</resources>
